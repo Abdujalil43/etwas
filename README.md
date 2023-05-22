@@ -1,3 +1,3 @@
 # etwas
 
-![Etwas](/home/whoami/Programming/etwas/giphy.gif)
+![Etwas](https://giphy.com/gifs/download-IRFQYGCokErS0)
