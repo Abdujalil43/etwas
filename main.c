@@ -7,5 +7,12 @@ int main() {
       printf("%d ", i);
     }
   }
+  printf("\n);
+  int a;
+  scanf("%d", &a);
+  int *a_ptr;
+  a_ptr = &a;
+  printf("a_ptr -> %d\n", *a_ptr);
   return 0;
 }
+
