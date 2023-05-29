@@ -7,7 +7,7 @@ int main() {
       printf("%d ", i);
     }
   }
-  printf("\n);
+  printf("\n");
   int a;
   scanf("%d", &a);
   int *a_ptr;
